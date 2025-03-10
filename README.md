@@ -21,7 +21,7 @@ The CSS styling complements the HTML structure by creating a clean and minimalis
 
 This portfolio website, developed using Visual Studio Code, is designed to be straightforward and easily navigable, focusing on presenting William's skills and projects in a clear and concise manner. The combination of semantic HTML and clean, cross-browser compatible CSS styling results in a user-friendly and visually appealing website that effectively serves its purpose as a developer's online resume. The emphasis on simplicity and clarity makes it easy for visitors to quickly grasp William's capabilities and experience, making it a valuable tool for networking and career advancement. The use of common, well-supported CSS properties ensures that the site renders consistently across modern browsers, providing a reliable experience for all visitors.
 
-#OUT PUT
+# OUT PUT
 
 ![Image](https://github.com/user-attachments/assets/1bd2c6f5-f4f9-4837-bbef-05494681ea17)
 
